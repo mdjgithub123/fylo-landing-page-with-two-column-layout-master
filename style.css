@@ -1,0 +1,123 @@
+body{
+    font-family: "open-sans";
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "Raleway";
+   
+}
+.title-heading{
+    font-weight: bolder;
+    line-height: 1.5;
+}
+#title .container-fluid{
+    margin: 3% 5% 0 5%;
+}
+.illustration-1{
+    width: 100%;
+}
+.row{
+    padding: 4% 5%;
+}
+.titleleft{
+    padding-top: 15%;
+    width: 100%;
+}
+.illustration-2{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.body-heading{
+    padding-bottom: 4%;
+    font-weight: bolder;
+}
+.quote-box{
+    background-color: #fff;
+    width: 70%;
+    height: 50%;
+   border-radius: 2%;
+  
+}
+.quote{
+    padding-top: 8%;
+    padding-bottom: 15%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.Author{
+    border-radius: 100%;
+    width: 15%;
+    float: left;
+    margin-right: 3%;
+}
+.icon-quote{
+    padding-bottom: 4%;
+}
+.Author-name{
+    font-weight: bold;
+}
+.Author-field{
+    font-size: small;
+}
+.quote p{
+    line-height: 1.7;
+}
+.backg-curve{
+margin-top: 5%;
+}
+.row2{
+    background-color: hsl(240, 75%, 98%);
+}
+.sec-last-bg-color{
+    background-color: hsl(238, 22%, 44%);
+    padding: 3% 0;
+}
+.Last-bg-color{
+    background-color: hsl(243, 44%, 54%);
+    padding: 4% 0;
+}
+#footer-sec{
+    color: #fff;
+}
+.left-last{
+    width: 80%;
+}
+.right-last{
+    width: 80%;
+    margin-left: 10%;
+}
+.logo-last{
+    margin-bottom: 10%;
+}
+.about-link{
+    text-decoration: none;
+    color: #fff;
+}
+.socialmediaicons{
+    color: #fff;
+    padding-right: 4%;
+    width: 15%;
+} 
+.icon-phone-email{
+    padding-right: 3%;
+}
+#staticEmail2{
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 2% 2%;
+    margin-bottom: 2%;
+}
+#staticbutton2{
+    padding: 2% 6%;
+    border-radius: 5px;
+}
+#staticEmail1{
+border: solid 1px black;
+padding-left: 4%;
+border-radius: 4px;
+}
+.arrow-link{
+    color: hsl(170, 45%, 43%);
+    font-size: large;
+}
